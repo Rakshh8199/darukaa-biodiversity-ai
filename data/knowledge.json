@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "soil_health",
+    "title": "Soil Organic Carbon",
+    "content": "Soil organic carbon is an important indicator of soil condition and contributes to soil structure, nutrient cycling and biological activity.",
+    "metrics": ["soil organic carbon", "soil health", "soil biological activity"],
+    "source": "FAO"
+  },
+  {
+    "topic": "soil_health",
+    "title": "Soil Moisture",
+    "content": "Soil moisture affects plant growth and soil biological processes. It is influenced by rainfall, soil properties and land management.",
+    "metrics": ["soil moisture", "plant growth", "soil biological activity"],
+    "source": "FAO"
+  },
+  {
+    "topic": "climate",
+    "title": "Rainfall",
+    "content": "Rainfall and water availability influence plant growth, ecosystem processes and habitat conditions. Changes in water availability can affect organisms and ecosystem functioning.",
+    "metrics": ["rainfall", "water availability", "ecosystem functioning"],
+    "source": "IPCC"
+  },
+  {
+    "topic": "biodiversity",
+    "title": "Species Richness",
+    "content": "Species richness describes the number of different species present in an ecological area and can be used as one indicator of biodiversity.",
+    "metrics": ["species richness", "biodiversity"],
+    "source": "IPCC"
+  },
+  {
+    "topic": "biodiversity",
+    "title": "Habitat Diversity",
+    "content": "Greater habitat diversity can provide different resources and conditions for organisms and can support biodiversity.",
+    "metrics": ["habitat diversity", "biodiversity"],
+    "source": "FAO"
+  },
+  {
+    "topic": "land_use",
+    "title": "Crop Diversity",
+    "content": "Increasing diversity within agricultural systems can provide a greater variety of habitats and resources compared with simplified agricultural systems.",
+    "metrics": ["crop diversity", "habitat diversity", "biodiversity"],
+    "source": "FAO"
+  },
+  {
+    "topic": "land_use",
+    "title": "Agroforestry",
+    "content": "Agroforestry integrates trees with crops or other agricultural activities. Such systems can provide additional habitat and ecosystem functions.",
+    "metrics": ["habitat diversity", "biodiversity", "land use"],
+    "source": "FAO"
+  },
+  {
+    "topic": "human_impact",
+    "title": "Deforestation",
+    "content": "Loss of forest habitat can reduce available habitat for species and can contribute to changes in ecosystem structure and biodiversity.",
+    "metrics": ["deforestation", "habitat", "biodiversity"],
+    "source": "FAO"
+  },
+  {
+    "topic": "human_impact",
+    "title": "Pollution",
+    "content": "Pollution can place pressure on ecosystems and organisms. Effects depend on the pollutant, concentration, exposure and ecosystem involved.",
+    "metrics": ["pollution", "ecosystem health", "biodiversity"],
+    "source": "IPCC"
+  }
+]

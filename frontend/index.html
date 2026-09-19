@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Darukaa.Earth Biodiversity AI</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>Darukaa.Earth Biodiversity AI</h1>
+
+            <p class="subtitle">
+                AI-powered biodiversity and environmental intelligence
+            </p>
+        </header>
+
+        <main>
+
+            <div class="search-box">
+                <input
+                    id="query"
+                    type="text"
+                    placeholder="Ask about biodiversity, soil, climate or ecosystems..."
+                >
+
+                <button type="button" onclick="search()">
+                    Search
+                </button>
+            </div>
+
+            <div class="example">
+                Try: <button onclick="useExample('biodiversity')">
+                    biodiversity
+                </button>
+            </div>
+
+            <div id="status"></div>
+
+            <div id="results"></div>
+
+        </main>
+
+        <footer>
+            <p>Darukaa.Earth • Biodiversity Intelligence System</p>
+        </footer>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
